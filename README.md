@@ -8,7 +8,5 @@ PDFRW
 
 
 #Screenshot(s):
-![alt text][logo]
-[logo]: https://cdn.pbrd.co/images/7E7gkXjXo.png "PDF COMBINE"
-
+![LOGO](https://cdn.pbrd.co/images/7E7gkXjXo.png)
 Icons from [Flaticons](http://www.flaticon.com)
